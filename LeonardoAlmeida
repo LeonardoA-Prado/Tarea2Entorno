@@ -1,0 +1,13 @@
+PARTE 2; EJERCICIO 2.3 y 2.4
+CREATE DATABASE #crea una base de datos
+USE basedatos #Usa una base de datos
+DROP DATABASE #borra una base de datos
+CREATE TABLE nombre (columna tipo restricción, ….); #crea una tabla con sus columnas y tipos
+SHOW DATABASES #muestra las bases de datos existentes
+SHOW TABLES #Muestra las tablas de la base de datos actual
+DESCRIBE TABLA #describe los campos y tipos de la tabla
+DROP TABLE #borra una tabla
+SHOW COLLATION #muestra una collation(clasificación) que es un conjunto de reglas.
+SHOW CHARACTER SET #muestra los conjuntos de caracteres disponibles.
+SELECT VERSION (); #Muestraa la versión de MYSQL
+SELECT * FROM TABLE # Consulta para ver todos los datos de una tabla.
